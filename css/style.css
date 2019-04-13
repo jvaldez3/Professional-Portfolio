@@ -478,7 +478,7 @@ p {
 [ 03 - Start Header ]
 -----------------------------------------------------------------*/
 .header {
-  background-image: url("https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_1280.jpg");
+  background-image: url("../images/web-design-2906159_1280.jpg");
   overflow: hidden;
   height: 100vh;
 }
@@ -684,7 +684,7 @@ p {
 [ 07 - Start Portfolio ]
 -----------------------------------------------------------------*/
 .portfolio {
-  background-image: url("https://cdn.pixabay.com/photo/2016/01/09/18/28/old-1130743_1280.jpg");
+  background-image: url("../images/old-1130743_1280.jpg");
   overflow: hidden;
   background-repeat: no-repeat;
   background-size: 100%;
